@@ -5,6 +5,8 @@
       <module fileurl="file://$PROJECT_DIR$/../../05-Binary-Search-Tree/02-Binary-Search-Tree-Vasics.iml" filepath="$PROJECT_DIR$/../../05-Binary-Search-Tree/02-Binary-Search-Tree-Vasics.iml" />
       <module fileurl="file://$PROJECT_DIR$/02-Create-Our-Own-Array.iml" filepath="$PROJECT_DIR$/02-Create-Our-Own-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/../03-Add-Element-in-Array/03-Add-Element-in-Array.iml" filepath="$PROJECT_DIR$/../03-Add-Element-in-Array/03-Add-Element-in-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../05-Binary-Search-Tree/05-Binary-Search-Tree/03-Add-Elements-in-BTS.iml" filepath="$PROJECT_DIR$/../../05-Binary-Search-Tree/05-Binary-Search-Tree/03-Add-Elements-in-BTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../05-Binary-Search-Tree/05-Binary-Search-Tree.01.a.iml" filepath="$PROJECT_DIR$/../../05-Binary-Search-Tree/05-Binary-Search-Tree.01.a.iml" />
     </modules>
   </component>
 </project>

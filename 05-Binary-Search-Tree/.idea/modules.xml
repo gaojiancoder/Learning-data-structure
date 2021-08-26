@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/02-Binary-Search-Tree-Basics/02-Binary-Search-Tree-Basics.iml" filepath="$PROJECT_DIR$/02-Binary-Search-Tree-Basics/02-Binary-Search-Tree-Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-Add-Elements-in-BTS/03-Add-Elements-in-BTS.iml" filepath="$PROJECT_DIR$/03-Add-Elements-in-BTS/03-Add-Elements-in-BTS.iml" />
       <module fileurl="file://$PROJECT_DIR$/05-Binary-Search-Tree.iml" filepath="$PROJECT_DIR$/05-Binary-Search-Tree.iml" />
     </modules>
   </component>
