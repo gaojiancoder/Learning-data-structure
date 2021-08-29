@@ -33,6 +33,7 @@ public class BST<E extends Comparable<E>>{
         }
 
     }
+    //以node为根的二分树插入元素e，实现递归
     private void add(Node node,E e){
         if (e.equals(node.e))
             return;
