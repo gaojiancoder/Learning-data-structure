@@ -11,20 +11,58 @@ public class Solution {
 
             }
         }
+
         private Node root;
         private int size;
-        public BST(){
-            root=null;
-            size=0;
+
+        public BST() {
+            root = null;
+            size = 0;
         }
-        public  int size(){
+
+        public int size() {
             return size;
 
         }
-        public boolean isEmpty(){
-            return size ==0;
 
+        public boolean isEmpty() {
+            return size == 0;
         }
 
+        //向二分搜索树中添加新元素e
+        public void add(E e) {
+            root = add(root, e);
+        }
+
+        private Node add(Node node, E e) {
+            if (node == null) {
+                size++;
+                return new Node(e);
+            }
+
+            if (e.compareTo(node.e) < 0)
+                node.left = add(node.left, e);
+            else if (e.compareTo(node.e) > 0)
+                node.right = add(node.right, e);
+            return node;
+        }
+
+        public int unipueMorseRepresentations(String[] words) {
+            String[] codes = {".-", "-...", "-_-"};
+            BST<String> bst = new BST<>();
+            for (String word : words) {
+                StringBuilder res = new StringBuilder();
+                for (int i = 0; i < word.length(); i++)
+                    res.append(codes[word.charAt(i) - 'a']);
+                bst.add(res.toString());
+
+            }
+                return bst.size();
+
+
+        }
     }
 }
+
+
+
