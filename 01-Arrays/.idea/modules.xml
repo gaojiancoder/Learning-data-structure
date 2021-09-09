@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/02-Create-Our-Own-Array/02-Create-Our-Own-Array.iml" filepath="$PROJECT_DIR$/02-Create-Our-Own-Array/02-Create-Our-Own-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/03-Add-Element-in-Array/03-Add-Element-in-Array.iml" filepath="$PROJECT_DIR$/03-Add-Element-in-Array/03-Add-Element-in-Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/04-Query-and-Update-Element/04-Query-and-Update-Element.iml" filepath="$PROJECT_DIR$/04-Query-and-Update-Element/04-Query-and-Update-Element.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-Contain-Find-and-Remove/05-Contain-Find-and-Remove.iml" filepath="$PROJECT_DIR$/05-Contain-Find-and-Remove/05-Contain-Find-and-Remove.iml" />
     </modules>
   </component>
 </project>
